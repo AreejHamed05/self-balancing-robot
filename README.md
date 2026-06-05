@@ -25,13 +25,17 @@ and maintains balance for 5–8 seconds.
 
 ---
 
-## Demo
+## Physical Model
+<img width="769" height="574" alt="Solidworks Assembly" src="https://github.com/user-attachments/assets/13cf2c20-013b-4398-a590-dace72754c7f" />
 
-📹 [Watch the robot balancing here]([PASTE YOUR YOUTUBE LINK])
+<img width="941" height="1672" alt="Physical Model od Self-balancing Robot" src="https://github.com/user-attachments/assets/35027cc4-cdfb-4e9a-8827-cac6455e2cda" />
 
-![Robot Balancing]([DRAG AND DROP PHOTO HERE])
-![Chassis Assembly]([DRAG AND DROP PHOTO HERE])
-![Hardware Wiring]([DRAG AND DROP PHOTO HERE])
+https://github.com/user-attachments/assets/1e3a8120-55f2-44b8-9ff1-c3eb335fe951
+
+https://github.com/user-attachments/assets/8c4a0689-8905-41c1-8457-e4569962b5f3
+
+
+
 
 ---
 
