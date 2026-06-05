@@ -32,10 +32,6 @@ and maintains balance for 5–8 seconds.
 
 https://github.com/user-attachments/assets/1e3a8120-55f2-44b8-9ff1-c3eb335fe951
 
-https://github.com/user-attachments/assets/8c4a0689-8905-41c1-8457-e4569962b5f3
-
-
-
 
 ---
 
